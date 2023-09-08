@@ -26,5 +26,4 @@ void main(){
   print('---------------------');
   print('Restornar o resto da divisão 11 % 2, operador (%).');
   print(11 % 2);
-
 }
